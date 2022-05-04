@@ -1,0 +1,8 @@
+{
+  "name": "skv-wonderful-bundle",
+  "version": "1.0.0",
+  "description": "outputs an uplifting message",
+  "main": "index.js",
+  "author": "Chompy MacPherson <chompymac@alligator.io",
+  "license": "ISC"
+}
